@@ -1,0 +1,12 @@
+---
+title: "hw10"
+author: "Doan-Nhi Nguyen"
+date: "5/2/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+doan-nhi wuz here.
